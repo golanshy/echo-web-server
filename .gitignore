@@ -24,6 +24,7 @@ go.work
 
 bin/*
 
+infrastructure/true
 infrastructure/bin/*
 infrastructure/.terraform/*
 infrastructure/terraform.tfstate
