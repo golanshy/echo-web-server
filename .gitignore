@@ -25,3 +25,5 @@ go.work
 bin/*
 infrastructure/bin/*
 infrastructure/.terraform/*
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
